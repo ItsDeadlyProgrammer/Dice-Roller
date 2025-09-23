@@ -26,7 +26,7 @@ Welcome to **DiceRoller** — a beginner-friendly Android application built with
 
 1. Clone this repository.  
 2. Open the project in Android Studio.  
-3. Make sure the dice images (`dice_1` to `dice_6`) are in the `res/drawable` directory.  
+3. Make sure the dice images (`dice 1` to `dice 6`) are in the `res/drawable` directory.  
 4. Run the app on an emulator or physical device.  
 5. Tap the button and roll the dice! 🎉
 
