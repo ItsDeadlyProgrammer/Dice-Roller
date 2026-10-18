@@ -1,5 +1,7 @@
 # 🎲 DiceRoller
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
 Welcome to **DiceRoller** — a beginner-friendly Android application built with **Jetpack Compose**, where you can roll a virtual dice with the tap of a button and see a fun, dynamic dice face update instantly!
 
 ## ✨ Features
